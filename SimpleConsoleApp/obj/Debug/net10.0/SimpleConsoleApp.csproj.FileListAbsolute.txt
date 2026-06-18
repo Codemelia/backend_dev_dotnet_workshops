@@ -1,0 +1,15 @@
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\bin\Debug\net10.0\SimpleConsoleApp.exe
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\bin\Debug\net10.0\SimpleConsoleApp.deps.json
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\bin\Debug\net10.0\SimpleConsoleApp.runtimeconfig.json
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\bin\Debug\net10.0\SimpleConsoleApp.dll
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\bin\Debug\net10.0\SimpleConsoleApp.pdb
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.AssemblyInfo.cs
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.sourcelink.json
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.dll
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\refint\SimpleConsoleApp.dll
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.pdb
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.genruntimeconfig.cache
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\ref\SimpleConsoleApp.dll
