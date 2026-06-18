@@ -13,3 +13,7 @@ C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\o
 C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.pdb
 C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.genruntimeconfig.cache
 C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\ref\SimpleConsoleApp.dll
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\SimpleConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ameli\Documents\GDipSA\Classes\Mobile\Backend\dotnet\SimpleConsoleApp\obj\Debug\net10.0\SimpleCo.990885C8.Up2Date
