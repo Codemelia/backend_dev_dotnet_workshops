@@ -1,4 +1,4 @@
-# backend_dev_dotnet_console
+# backend_dev_dotnet_workshops
 Backend Workshops on dotnet
 
 ## Project Overview
