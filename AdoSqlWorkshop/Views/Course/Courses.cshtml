@@ -1,0 +1,50 @@
+﻿@model AdoSqlWorkshop.Models.CoursesByLecturerViewModel
+
+@{
+    ViewData["Title"] = "Course List";
+}
+
+<h1>Course List</h1>
+<hr />
+
+<div>
+    <table>
+        <thead>
+            @if (Model.Lecturer != null && Model.Lecturer.Id > 0)
+            {
+                <tr>
+                    <th colspan="2">Lecturer</th>
+                    <th colspan="2">@Model.Lecturer.Id</th>
+                </tr>
+                <tr>
+                    <th colspan="2">Full Name</th>
+                    <th colspan="2">@Model.Lecturer.FirstName @Model.Lecturer.LastName</th>
+                </tr>
+                <tr>
+                    <th colspan="2">Username</th>
+                    <th colspan="2">@Model.Lecturer.Username</th>
+                </tr>
+            }
+            <tr>
+                <th>ID</th>
+                <th>Code</th>
+                <th>Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var c in Model.Courses)
+            {
+                <tr>
+                    <td>@c.Id</td>
+                    <td>@c.Code</td>
+                    <td>@c.Name</td>
+                    <td>
+                        <a href="@Url.Action("Details", "Course", new {id = c.Id})">View</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

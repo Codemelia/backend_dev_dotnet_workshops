@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\views\\course\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:views\\course\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\views\\lecturer\\lecturers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:views\\lecturer\\lecturers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\models\\coursesbylecturerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:models\\coursesbylecturerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|c:\\users\\ameli\\documents\\gdipsa\\classes\\mobile\\backend\\workshops\\adosqlworkshop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFA078D-AB5D-1020-04C1-68C3BD7BB2B3}|AdoSqlWorkshop.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T09:13:39.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T09:12:51.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T09:12:49.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoursesByLecturerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Models\\CoursesByLecturerViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CoursesByLecturerViewModel.cs",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Models\\CoursesByLecturerViewModel.cs",
+              "RelativeToolTip": "Models\\CoursesByLecturerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:17:12.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T01:58:59.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Courses.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Views\\Course\\Courses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Courses.cshtml",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Views\\Course\\Courses.cshtml",
+              "RelativeToolTip": "Views\\Course\\Courses.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T03:08:49.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T03:21:39.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "Controllers\\LecturerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:17:06.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lecturers.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Views\\Lecturer\\Lecturers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Lecturer\\Lecturers.cshtml",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Views\\Lecturer\\Lecturers.cshtml",
+              "RelativeToolTip": "Views\\Lecturer\\Lecturers.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T07:15:01.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T02:22:03.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T02:03:32.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "Views\\Course\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T03:06:30.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-23T03:24:15.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Models\\Lecturer.cs",
+              "RelativeDocumentMoniker": "Models\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Models\\Lecturer.cs",
+              "RelativeToolTip": "Models\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T02:29:23.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-23T04:07:22.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ameli\\Documents\\GDipSA\\Classes\\Mobile\\Backend\\Workshops\\AdoSqlWorkshop\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T02:06:48.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
